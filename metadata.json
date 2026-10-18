@@ -1,0 +1,6 @@
+{
+  "name": "Mafia Pixel",
+  "description": "لعبة مافيا بكسل التكتيكية ذات طابع سينمائي مع واجهة أفقية تفاعلية ودعم كامل للغة العربية ونظام أدوار سرية مشفر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

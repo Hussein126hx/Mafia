@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Mafia Pixel</string>
+    <string name="game_title">مافيا بكسل</string>
+    <string name="game_subtitle">المواجهة الليلية في مكتب الدون</string>
+    
+    <!-- Roles -->
+    <string name="role_citizen">مواطن</string>
+    <string name="role_mafia">مافيا</string>
+    <string name="role_doctor">طبيب</string>
+    <string name="role_detective">محقق</string>
+    <string name="role_unknown">سري ومجهول</string>
+    
+    <!-- Statuses -->
+    <string name="status_alive">حي</string>
+    <string name="status_eliminated">مستبعد</string>
+    
+    <!-- Phases -->
+    <string name="phase_intro">توزيع الأدوار السرية</string>
+    <string name="phase_night">مرحلة الليل</string>
+    <string name="phase_dawn">بزوغ الفجر والنتائج</string>
+    <string name="phase_day">نقاش النهار</string>
+    <string name="phase_voting">التصويت العلني</string>
+    <string name="phase_verdict">قرار المحاكمة</string>
+    <string name="phase_game_over">نهاية اللعبة</string>
+    
+    <!-- Actions -->
+    <string name="action_diplomacy">تفاوض</string>
+    <string name="action_eliminate">تصفية</string>
+    <string name="action_bribe">تمويل</string>
+    <string name="action_protect">حماية</string>
+    <string name="action_investigate">تحقيق</string>
+    <string name="action_vote">تصويت</string>
+    <string name="action_skip">تخطي</string>
+    <string name="action_submitted">تم إرسال اختيارك</string>
+    <string name="action_citizen_night_wait">حان وقت الليل، انتظر حتى الصباح</string>
+    
+    <!-- Privacy notice -->
+    <string name="private_role_title">بطاقتك السرية الخاصة (أنت فقط)</string>
+    <string name="private_role_hint">لا تدع أحداً يرى شاشتك. دورك محمي ولا يظهر لأي لاعب آخر.</string>
+    <string name="reveal_role_button">كشف دوري</string>
+    <string name="hide_role_button">إخفاء دوري</string>
+    
+    <!-- Orientation prompt -->
+    <string name="rotate_device_title">يُفضّل الوضع الأفقي</string>
+    <string name="rotate_device_desc">للحصول على التجربة السينمائية الكاملة والمتقنة لمكتب المافيا وأزرار التحكم بدقة 16:9، يرجى تدوير جهازك بالعرض.</string>
+    <string name="continue_portrait">المتابعة بالوضع الرأسي</string>
+    
+    <!-- Dialogue Controls -->
+    <string name="continue_dialogue">اضغط للمتابعة</string>
+    <string name="round_counter">الجولة %1$d</string>
+    <string name="time_remaining">الوقت: %1$dث</string>
+    
+    <!-- Win conditions -->
+    <string name="citizens_win_title">انتصار المواطنين الشرفاء!</string>
+    <string name="citizens_win_desc">تم تطهير المدينة من عصابة المافيا بالكامل بفضل ذكاء التحقيق وشجاعة الأطباء.</string>
+    <string name="mafia_win_title">سيطرة عائلة المافيا!</string>
+    <string name="mafia_win_desc">أحكم الدون وعصابته قبضتهم الحديدية على شوارع المدينة وسقطت محاولات المقاومة.</string>
+    <string name="play_again">بدء جولة جديدة</string>
+</resources>
